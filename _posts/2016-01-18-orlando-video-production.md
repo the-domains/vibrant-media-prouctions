@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Vibrant Media Productions is an Orlando Video Production Company with the highest rated videography services in Central Florida. '
-datePublished: '2016-01-18T19:42:11.855Z'
+datePublished: '2016-01-18T19:42:11.870Z'
 dateModified: '2016-01-18T19:42:08.080Z'
 title: Orlando Video Production
 author: []
